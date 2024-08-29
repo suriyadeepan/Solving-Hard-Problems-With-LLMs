@@ -1,1 +1,2 @@
 dspy-ai
+jinja2  # optional dependency for RAG evaluation
