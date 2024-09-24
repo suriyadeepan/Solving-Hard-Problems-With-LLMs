@@ -3,3 +3,4 @@ jinja2  # optional dependency for RAG evaluation
 ollama
 openai
 yfinance
+fastapi[standard] # llm api
